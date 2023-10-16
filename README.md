@@ -25,5 +25,4 @@ Follow these steps to set up and run the project:
    npm run dev
 
 You are good to go ,Happy coding !!
-   
-
+This website has been made for ZeroMeatFood pvt.Ltd it is still in making once completed it will be deployed.
