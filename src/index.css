@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #09090b;
+  font-family: 'Poppins', sans-serif;
+  
+}
+
+.section {
+  min-height: 100vh;
+  color: #fff;
+  padding: 120px 0 ;
+}
+
+.active {
+  @apply text-slate-500
+}
+
+@layer base {
+  .container {
+    @apply mx-auto px-4
+  }
+
+  .btn {
+    @apply rounded-full bg-primary text-white font-medium hover:bg-[#4f46e5] duration-300
+  }
+
+  .btn-sm {
+    @apply h-[48px] px-6 text-sm;
+  }
+
+  .btn-lg {
+    @apply h-[56px] px-10 text-base;
+  }
+
+  .icon {
+    @apply cursor-pointer
+  }
+
+  .section {
+    @apply py-8 lg:py-24 min-h-screen flex items-center  justify-center overflow-x-hidden;
+  }
+}
