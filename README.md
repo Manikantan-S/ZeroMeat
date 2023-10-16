@@ -1,9 +1,29 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This template provides a minimal setup to get React working in Vite with Hot Module Replacement (HMR) and some ESLint rules. You can choose between two official plugins for Fast Refresh: [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md), which uses Babel, or [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc), which uses SWC.
 
-Currently, two official plugins are available:
- 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-improve this readme file by adding to clione this repo first type git clone https://github.com/Manikantan-S/ZeroMeat.git in code format then type npm i to install dependencies thewn use npm run dev 
+## Getting Started
+
+Follow these steps to set up and run the project:
+
+1. **Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/Manikantan-S/ZeroMeat.git
+
+2. **Navigate to the directory:**
+
+   ```bash
+   cd ZeroMeat
+2. **Install Dependencies:**
+
+   ```bash
+   npm i
+3. **Start the Development Server:**
+
+   ```bash
+   npm run dev
+
+You are good to go ,Happy coding !!
+   
+
