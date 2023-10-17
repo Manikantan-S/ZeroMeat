@@ -6,15 +6,17 @@ This template provides a minimal setup to get React working in Vite with Hot Mod
 
 Follow these steps to set up and run the project:
 
-1. **Clone the Repository:**
+1. **Process 1:**
+   **You can Zip download the file and extract it and then proceed with Step number 2**
+
+
+   ***OR***
+
+   **Clone the Repository:**
 
    ```bash
    git clone https://github.com/Manikantan-S/ZeroMeat.git
 
-2. **Navigate to the directory:**
-
-   ```bash
-   cd ZeroMeat
 2. **Install Dependencies:**
 
    ```bash
@@ -25,4 +27,4 @@ Follow these steps to set up and run the project:
    npm run dev
 
 You are good to go ,Happy coding !!
-This website has been made for ZeroMeatFood pvt.Ltd it is still in making once completed it will be deployed.
+This website has been made for ZeroMeatFood pvt.Ltd it is still in the process of development.
